@@ -19,3 +19,7 @@ Dependencies
 2. Place them in the same file folder
 3. Run TomatoDetection.py
 4. Done
+
+## Demo Video
+
+https://drive.google.com/drive/folders/1eknOrJ7b2N5dv1CW2UdHXQrywZ4M05xv?usp=sharing

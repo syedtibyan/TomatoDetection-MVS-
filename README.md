@@ -27,3 +27,11 @@ https://drive.google.com/drive/folders/1eknOrJ7b2N5dv1CW2UdHXQrywZ4M05xv?usp=sha
 ## Dataset
 
 https://drive.google.com/drive/folders/1-pQiufzvtVkh48Z28dXTfqTkDHh7dICN?usp=sharing
+
+## Proposal
+
+https://drive.google.com/drive/folders/1-pQiufzvtVkh48Z28dXTfqTkDHh7dICN?usp=sharing
+
+## Reports
+
+https://drive.google.com/drive/folders/10K53Fg0VOueIUVvfcBOjxfG-SUQfAVJS?usp=sharing

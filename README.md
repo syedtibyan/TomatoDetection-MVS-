@@ -8,12 +8,14 @@ Syed Mohammed Tibyan Tisher	A17KE4031
 
 ## Tomato Detection System
 ### To Detect Healthy and Unhealthy Tomatoes
-### Dependencies
-### 1. cv2
-### 2. numpy
+Dependencies
+
+1. cv2
+2. numpy
 
 ## How to use code to run program
-### 1. Download the main code and its dependencies
-### 2. Place them in the same file folder
-### 3. Run FindScreen.py
-### 4. Done
+
+1. Download the main code and its dependencies
+2. Place them in the same file folder
+3. Run FindScreen.py
+4. Done

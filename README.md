@@ -30,7 +30,7 @@ https://drive.google.com/drive/folders/1-pQiufzvtVkh48Z28dXTfqTkDHh7dICN?usp=sha
 
 ## Proposal
 
-https://drive.google.com/drive/folders/1-pQiufzvtVkh48Z28dXTfqTkDHh7dICN?usp=sharing
+https://drive.google.com/drive/folders/14NMBrooeheq-kgF_bdh5YVJ2LYIF2DUc?usp=sharing
 
 ## Reports
 
